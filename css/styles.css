@@ -3,6 +3,10 @@ main {
     font-family: 'Roboto';
 }
 
+h1 {
+    color: red;
+}
+
 .laptops {
     display: flex;
     justify-content: center;
